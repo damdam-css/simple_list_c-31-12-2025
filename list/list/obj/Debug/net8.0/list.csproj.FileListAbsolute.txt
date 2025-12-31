@@ -1,0 +1,14 @@
+C:\Users\ppiksn\Documents\tugas damar\list\list\bin\Debug\net8.0\list.exe
+C:\Users\ppiksn\Documents\tugas damar\list\list\bin\Debug\net8.0\list.deps.json
+C:\Users\ppiksn\Documents\tugas damar\list\list\bin\Debug\net8.0\list.runtimeconfig.json
+C:\Users\ppiksn\Documents\tugas damar\list\list\bin\Debug\net8.0\list.dll
+C:\Users\ppiksn\Documents\tugas damar\list\list\bin\Debug\net8.0\list.pdb
+C:\Users\ppiksn\Documents\tugas damar\list\list\obj\Debug\net8.0\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppiksn\Documents\tugas damar\list\list\obj\Debug\net8.0\list.AssemblyInfoInputs.cache
+C:\Users\ppiksn\Documents\tugas damar\list\list\obj\Debug\net8.0\list.AssemblyInfo.cs
+C:\Users\ppiksn\Documents\tugas damar\list\list\obj\Debug\net8.0\list.csproj.CoreCompileInputs.cache
+C:\Users\ppiksn\Documents\tugas damar\list\list\obj\Debug\net8.0\list.dll
+C:\Users\ppiksn\Documents\tugas damar\list\list\obj\Debug\net8.0\refint\list.dll
+C:\Users\ppiksn\Documents\tugas damar\list\list\obj\Debug\net8.0\list.pdb
+C:\Users\ppiksn\Documents\tugas damar\list\list\obj\Debug\net8.0\list.genruntimeconfig.cache
+C:\Users\ppiksn\Documents\tugas damar\list\list\obj\Debug\net8.0\ref\list.dll
